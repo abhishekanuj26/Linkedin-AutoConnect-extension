@@ -3,10 +3,11 @@
     "version": "1",
     "manifest_version" :   3,
     "description" : "Create connection request for linkedin",
-    "background":{
-        "service_worker": "background.js"
-    },
     "action":{
         "default_popup":"popup.html"
-    }
+    },
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ]
 }
