@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+}
+h1{
+    font-size: medium;
+}
+html{
+    min-height:100px;
+    min-width:200px
+}
+.inviteSent{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.heading{
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+}
+.send{
+    margin: auto;
+    display: flex;
+    justify-content: space-between
+}
+button{
+    background-color: pink;
+    border-radius: 5rem;
+}

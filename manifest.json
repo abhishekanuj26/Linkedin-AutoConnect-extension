@@ -13,7 +13,7 @@
     "host_permissions": ["https://*.linkedin.com/*"],
     "content_scripts": [
         {
-          "matches": ["https://*.linkedin.com/search/results/people/*"],
+        "matches": ["https://*.linkedin.com/search/results/people/*"],
         "js": ["myscripts.js"]
         }
       ]
