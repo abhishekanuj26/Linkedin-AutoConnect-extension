@@ -15,7 +15,4 @@ This extension allows users to automate connecting people in linkedin.
 
 After installing it, search any keyword, and click the start button in the extension, it will send the connection request to all the people on the first page. 
 
-![LinkedIn AutoConnect Screenshot #1](.github/screenshots/linkedin_autoconnect_screenshot_1.png)
-
-![LinkedIn AutoConnect Screenshot #2](.github/screenshots/linkedin_autoconnect_screenshot_2.png)
 
